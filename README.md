@@ -1,5 +1,3 @@
-# EXPERI-NCIA-PROFISSIONAL-F-BRICA-DE-SOFTWARE
-
 # Agro Resource Manager (ARM)
 
 Sistema web interno para gerenciamento de recursos e funcionários de uma propriedade rural.
